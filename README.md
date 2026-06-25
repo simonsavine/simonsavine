@@ -1,10 +1,15 @@
-## Hello, welcome to my github page!
+## Welcome to Simon's GitHub page! <img src="" width="50">
 
 - My name is Simon Savine, a master's student in Computer Science at NYU Tandon.
 
 - I mainly use C++ and Python.
 
-- I am passionate about the gym, health and longevity, movies, and books.
+- Facts about me:
+
+- I am obsessed with the gym and can deadlift 415 lbs (189 kg).
+- I am equally passionate about health and longevity, and love attempting to max out my stats.
+- I adore movies, and have watched anywhere from 1,000 - 1,500 of them, my favorite being Scott Pilgrim V.S the World!
+- I have an adorable dog named Coco.
 
 - Where you can reach me:
 
