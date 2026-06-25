@@ -1,5 +1,4 @@
-## Welcome to Simon's GitHub page! <img src="<img width="500" height="281" alt="github readme GIF" src="https://github.com/user-attachments/assets/0adbb347-cd7b-4dbb-94e3-e9b0f1290883" />
-" width="50">
+## Welcome to Simon's GitHub page! "<img width="500" height="281" alt="github readme GIF" src="https://github.com/user-attachments/assets/0adbb347-cd7b-4dbb-94e3-e9b0f1290883" />
 
 My name is Simon Savine, a master's student in Computer Science at NYU Tandon.
 
