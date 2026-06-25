@@ -6,7 +6,7 @@
 
 My name is Simon Savine, a master's student in Computer Science at NYU Tandon.
 
-I mainly use C++ and Python. 
+I mainly use C++ and Python. I have been dabbling in some TypeScript and React for a startup I co-founded with a friend.
 
 Facts about me:
 
