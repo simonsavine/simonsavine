@@ -1,12 +1,15 @@
 ## Hello, welcome to my github page!
 
-- My name is Simon Savine
+- My name is Simon Savine, a master's student in Computer Science at NYU Tandon.
 
-- I am a master's student at NYU Tandon
-
-- I mainly use C++ and Python
+- I mainly use C++ and Python.
 
 - I am passionate about the gym, health and longevity, movies, and books.
+
+- Where you can reach me:
+
+- LinkedIn: https://www.linkedin.com/in/simonsavine/
+- Email: simon.antoine.savine@gmail.com
 
 <!--
 **simonsavine/simonsavine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
