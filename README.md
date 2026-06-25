@@ -7,7 +7,7 @@ I mainly use C++ and Python.
 Facts about me:
 
 - I am obsessed with the gym and can deadlift 415 lbs (189 kg).
-- I am equally passionate about health and longevity, and love attempting to max out my stats.
+- I am equally passionate about health and longevity, and love attempting to max out my stats IRL.
 - I adore movies, and have watched anywhere from 1,000 - 1,500 of them, my favorite being Scott Pilgrim V.S the World!
 - I have an adorable dog named Coco.
 
