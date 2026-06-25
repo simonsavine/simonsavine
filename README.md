@@ -1,6 +1,12 @@
 ## Hello, welcome to my github page!
 
-I love the gym
+- My name is Simon Savine
+
+- I am a master's student at NYU Tandon
+
+- I mainly use C++ and Python
+
+- I am passionate about the gym, health and longevity, movies, and books.
 
 <!--
 **simonsavine/simonsavine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
