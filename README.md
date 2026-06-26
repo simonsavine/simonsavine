@@ -4,7 +4,7 @@
 <img width="500" height="281" alt="github readme GIF" src="https://github.com/user-attachments/assets/0adbb347-cd7b-4dbb-94e3-e9b0f1290883" />
 </div>
 
-My name is Simon Savine, a master's student in Computer Science at NYU Tandon.
+My name is Simon Savine, a master's student in Computer Science at NYU Tandon, expected to graduate in August 2027.
 
 I mainly use C++ and Python. I have been dabbling in some TypeScript and React for a startup I co-founded with a friend.
 
