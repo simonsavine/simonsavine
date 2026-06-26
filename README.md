@@ -19,7 +19,6 @@ Where you can reach me:
 
 - LinkedIn: https://www.linkedin.com/in/simonsavine/
 - Email: simon.antoine.savine@gmail.com
-- Discord: https://discord.com/users/simon_svn
 
 <!--
 **simonsavine/simonsavine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
