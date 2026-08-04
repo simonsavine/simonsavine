@@ -12,8 +12,8 @@ Facts about me:
 
 - I am obsessed with the gym and can deadlift 415 lbs (189 kg).
 - I am equally passionate about health and longevity, and love attempting to max out my stats IRL.
-- I adore movies, and have watched anywhere from 1,000 - 1,500 of them, my favorite being Scott Pilgrim V.S the World! My Letterboxd: https://letterboxd.com/Dovaking101/
-- I was born in Tokyo, and have lived in 5 different countries.
+- I adore movies, my favorite being Scott Pilgrim V.S the World! Follow me on Letterboxd: https://letterboxd.com/Dovaking101/
+- I was born in Tokyo, and have lived in many different places including London, Singapore, Copenhagen and the US!
 
 Where you can reach me:
 
