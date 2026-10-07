@@ -1,6 +1,6 @@
 # Hi, I'm Simon Savine
 
-MS Computer Science student at **NYU Tandon** (graduating August 2027), with a BSc in Engineering from **DTU**. I'm looking for **software and ML engineering roles**, especially in **health tech, wearables, and games**.
+MS Computer Science student at **NYU Tandon** (graduating August 2027), with a BSc in Engineering from **DTU**. I'm looking for **software engineering roles**, especially in **health tech, wearables, and games**.
 
 I mainly work in **Python** and **C++**.
 
